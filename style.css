@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* width: 100%; */
+}
+#mainDiv
+{
+    border: 1px solid grey;
+    /* height: 730px; */
+    background-color: rgb(157, 182, 157);
+}
+
+.secondDIV{
+    display: flex;
+}
+
+body {
+    width: 100%;
+}
